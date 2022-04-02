@@ -26,7 +26,7 @@ def gen_pass(num):
                 min_pass = min_pass + r
         return min_pass
     else:
-        print('To low pasword')
+        print('To short pasword')
 
 
 while True:
